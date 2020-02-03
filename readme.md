@@ -63,7 +63,7 @@
         //注册apiResultFilter
         config.Filters.Add(new ApiResultAttribute());
         config.Filters.Add(new ApiErrorHandleAttribute());
-    注册中webApiConfig.cs中
+    注册在webApiConfig.cs中
     ```
 
     
